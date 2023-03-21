@@ -1,11 +1,4 @@
-# Remix Canvas template
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3759bc43-ec77-4362-8613-1fc13b566d91/deploy-status)](https://app.netlify.com/sites/canvas-remix/deploys)
-
-![Demo Screenshot](app/assets/canvas-remix-ss.png)
-
-Canvas studio remix template, use this template to kickstart your next Remix website app. We've some libraries and
-configuration to suit Canvas standards. Check out the [Demo Instructions](docs/DEMO_INSTRUCTIONS.md).
+# Remix template
 
 ## Usage
 
